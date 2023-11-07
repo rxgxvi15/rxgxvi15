@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rxgxvi15
+- 👋 Hi, I’m RagaviSivanesan
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Frontend development
 - 📫 How to reach me https://www.linkedin.com/in/ragavi-sivanesan-106229280/
